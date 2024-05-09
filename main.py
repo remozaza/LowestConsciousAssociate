@@ -92,4 +92,4 @@ async def on_app_command_error(interaction: discord.Interaction, error: app_comm
         await interaction.response.send_message(f"Sorry, an error had occured.\nIf you are facing any issues with me you can always send your </feedback:1027218853127794780>.", ephemeral = True)
         raise error
 
-bot.run("MTIyMTIyMzUzNDE5NDU5Mzg5Mg.Gfmqwn.KlShajW5THPvrB2NCUhYRaUrq_BvhLAbeNhZ7o")
+bot.run("MTIyMTIyMzUzNDE5NDU5Mzg5Mg.GTcsze.Lh8q7i745DOiZucBmi8W9NYDq3OWDhtVJR20XA")
